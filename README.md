@@ -43,14 +43,13 @@ I am currently Learning :**FULL STACK JAVA DEVELOPER**
 
 | Skill               | Proficiency                                          |
 |---------------------|------------------------------------------------------|
-| Python              | ![80%](https://img.shields.io/badge/Proficiency-80%25-brightgreen)  |
-| Java                | ![70%](https://img.shields.io/badge/Proficiency-70%25-yellowgreen) |
-| C                   | ![60%](https://img.shields.io/badge/Proficiency-60%25-yellow)      |
-| HTML/CSS            | ![90%](https://img.shields.io/badge/Proficiency-90%25-brightgreen) |
-| JavaScript/React    | ![75%](https://img.shields.io/badge/Proficiency-75%25-yellowgreen) |
-| SQL/MySQL           | ![85%](https://img.shields.io/badge/Proficiency-85%25-brightgreen) |
-| Spring Boot         | ![70%](https://img.shields.io/badge/Proficiency-70%25-yellowgreen) |
-
+| Python              | ![Level](https://img.shields.io/badge/Level-★★★★☆-brightgreen)  |
+| Java                | ![Level](https://img.shields.io/badge/Level-★★★☆☆-yellowgreen) |
+| C                   | ![Level](https://img.shields.io/badge/Level-★★★☆☆-yellow)      |
+| HTML/CSS            | ![Level](https://img.shields.io/badge/Level-★★★★★-brightgreen) |
+| JavaScript/React    | ![Level](https://img.shields.io/badge/Level-★★★★☆-yellowgreen) |
+| SQL/MySQL           | ![Level](https://img.shields.io/badge/Level-★★★★☆-brightgreen) |
+| Spring Boot         | ![Level](https://img.shields.io/badge/Level-★★★☆☆-yellowgreen) |
 
 
 Check out [my GitHub repositories](https://github.com/pavithrak17?tab=repositories) for more!
