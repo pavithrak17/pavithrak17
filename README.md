@@ -13,6 +13,7 @@
 ## About Me
 
 I'm passionate **Machine Learning**, **Artificial Intelligence**, and **Full Stack Development**. 
+
 I love applying my technical skills to solve real-world problems and am constantly learning and growing in the field of software engineering.
 
 I am currently Learning :**FULL STACK JAVA DEVELOPER**
@@ -40,15 +41,16 @@ I am currently Learning :**FULL STACK JAVA DEVELOPER**
 
 ### Skills Proficiency
 
-| Skill                     | Proficiency |
-|----------------------------|-------------|
-| Python                     | ![80%](https://progress-bar.dev/80) |
-| Java                       | ![70%](https://progress-bar.dev/70) |
-| C                          | ![60%](https://progress-bar.dev/60) |
-| HTML/CSS                   | ![90%](https://progress-bar.dev/90) |
-| JavaScript/React           | ![75%](https://progress-bar.dev/75) |
-| SQL/MySQL                  | ![85%](https://progress-bar.dev/85) |
-| Spring Boot                | ![70%](https://progress-bar.dev/70) |
+| Skill               | Proficiency                                          |
+|---------------------|------------------------------------------------------|
+| Python              | ![80%](https://img.shields.io/badge/Proficiency-80%25-brightgreen)  |
+| Java                | ![70%](https://img.shields.io/badge/Proficiency-70%25-yellowgreen) |
+| C                   | ![60%](https://img.shields.io/badge/Proficiency-60%25-yellow)      |
+| HTML/CSS            | ![90%](https://img.shields.io/badge/Proficiency-90%25-brightgreen) |
+| JavaScript/React    | ![75%](https://img.shields.io/badge/Proficiency-75%25-yellowgreen) |
+| SQL/MySQL           | ![85%](https://img.shields.io/badge/Proficiency-85%25-brightgreen) |
+| Spring Boot         | ![70%](https://img.shields.io/badge/Proficiency-70%25-yellowgreen) |
+
 
 
 Check out [my GitHub repositories](https://github.com/pavithrak17?tab=repositories) for more!
