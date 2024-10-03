@@ -1,24 +1,38 @@
-<h1 align="center"><b>I'm Pavithra K! 👋 </b></h1>
+
+<h1 align="center"><b>Hi, I'm Pavithra K! 👋</b></h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pavithra-k-99b09a2b2">
-    <img src="https://img.shields.io/badge/LinkedIn-Pavithra_K-blue?logo=linkedin&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-Pavithra_K-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
   </a>
   <a href="https://github.com/pavithrak17">
-    <img src="https://img.shields.io/badge/GitHub-pavithrak17-lightgrey?logo=github&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/GitHub-pavithrak17-lightgrey?logo=github&style=for-the-badge" alt="GitHub" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=pavithrak17&color=blue&style=flat-square" alt="Profile Views" />
 </p>
+<h3 align="center">🚀 Student | Full Stack Developer | AI/ML Enthusiast | Innovator 🌟</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="300" alt="coding-gif">
+</p>
 
-## About Me
+Welcome to my GitHub profile! I'm a passionate **AI/ML Enthusiast** and **Full Stack Developer** who enjoys turning ideas into real-world solutions through coding and innovation. I'm continuously exploring new technologies and improving my skills in software development.
 
-I'm passionate **Machine Learning**, **Artificial Intelligence**, and **Full Stack Development**. 
+---
 
-I love applying my technical skills to solve real-world problems and am constantly learning and growing in the field of software engineering.
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
-I am currently Learning :**FULL STACK JAVA DEVELOPER**
+```javascript
+const pavithra = {
+  education: "4th-Year Student | Bachelor of Engineering in Computer Science & Engineering",
+  currentFocus: "Full Stack Java Developer",
+  interests: ["Machine Learning", "Artificial Intelligence", "Web Development"],
+  languages: ["Python", "Java", "C"],
+  frameworks: ["React", "Spring Boot", "Django"],
+  databases: ["MySQL", "SQL"],
+};
+```
 
-### Skills
+### <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30"> **Tech Stack**
 
 #### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-FFD43B?style=flat-square&logo=python&logoColor=darkgreen) 
@@ -31,7 +45,7 @@ I am currently Learning :**FULL STACK JAVA DEVELOPER**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-#### Tools & Frameworks
+#### Frameworks & Tools
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
@@ -39,8 +53,9 @@ I am currently Learning :**FULL STACK JAVA DEVELOPER**
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=MicrosoftSQLServer&logoColor=white)
 
-### Skills Proficiency
+---
 
+### <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> **My Skills Proficiency**
 | Skill               | Proficiency                                          |
 |---------------------|------------------------------------------------------|
 | Python              | ![Level](https://img.shields.io/badge/Level-★★★★☆-brightgreen)  |
@@ -51,12 +66,14 @@ I am currently Learning :**FULL STACK JAVA DEVELOPER**
 | SQL/MySQL           | ![Level](https://img.shields.io/badge/Level-★★★★☆-brightgreen) |
 | Spring Boot         | ![Level](https://img.shields.io/badge/Level-★★★☆☆-yellowgreen) |
 
+---
 
-Check out [my GitHub repositories](https://github.com/pavithrak17?tab=repositories) for more!
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **Let's Connect!**
 
-
-### Contact Me
-
-- 📧 Email: [pakv1722@gmail.com](mailto:pavithrak1743@gmail.com)
+- 📧 Email: [pakv1722@gmail.com](mailto:pakv1722@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/pavithra-k-99b09a2b2](https://www.linkedin.com/in/pavithra-k-99b09a2b2)
+- 💻 GitHub: [github.com/pavithrak17](https://github.com/pavithrak17)
 
+---
+
+*"The best way to predict the future is to create it."* – Let's innovate and build something amazing together!
