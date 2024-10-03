@@ -10,7 +10,7 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=pavithrak17&color=blue&style=flat-square" alt="Profile Views" />
 </p>
-<h3 align="center">🚀 Student | Full Stack Developer | AI/ML Enthusiast | Innovator 🌟</h3>
+<h3 align="center">🚀 Student | Developer | AI/ML Enthusiast 🌟</h3>
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="300" alt="coding-gif">
 </p>
