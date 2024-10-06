@@ -76,4 +76,11 @@ const pavithra = {
 
 ---
 
+## 📊 My GitHub Data:
+<div align="center">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=pavithrak17&show_icons=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavithrak17&" alt="pavithrak17" />
+</div>
+---
+
 *"The best way to predict the future is to create it."* – Let's innovate and build something amazing together!
