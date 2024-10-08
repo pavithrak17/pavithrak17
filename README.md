@@ -6,9 +6,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-Pavithra_K-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
   </a>
   <a href="https://github.com/pavithrak17">
-    <img src="https://img.shields.io/badge/GitHub-pavithrak17-lightgrey?logo=github&style=for-the-badge" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-pavithrak17-darkblue?logo=github&style=for-the-badge" alt="GitHub" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=pavithrak17&color=blue&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=pavithrak17&color=green&style=flat-square" alt="Profile Views" />
 </p>
 <h3 align="center">🚀 Student | Developer | AI/ML Enthusiast 🌟</h3>
 <p align="center">
@@ -81,6 +81,7 @@ const pavithra = {
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=pavithrak17&show_icons=true" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavithrak17&" alt="pavithrak17" />
 </div>
+
 ---
 
 *"The best way to predict the future is to create it."* – Let's innovate and build something amazing together!
