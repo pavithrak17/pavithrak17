@@ -70,14 +70,9 @@ const pavithra = {
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **Let's Connect!**
 
-- 📧 Email: [pakv1722@gmail.com](mailto:pakv1722@gmail.com)
+- 📧 Email: [pavithrak1743@gmail.com](mailto:pavithrak1743@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/pavithra-k-99b09a2b2](https://www.linkedin.com/in/pavithra-k-99b09a2b2)
 - 💻 GitHub: [github.com/pavithrak17](https://github.com/pavithrak17)
-
----
-
-## 📊 My GitHub Data:
-![](https://github-readme-streak-stats.herokuapp.com/?user=pavithrak17&theme=great-gatsby&hide_border=false)<br/>
 
 ---
 
