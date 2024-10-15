@@ -12,7 +12,7 @@
 </p>
 <h3 align="center">🚀 Student | Developer | AI/ML Enthusiast 🌟</h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="300" alt="coding-gif">
+  <img src="https://github.com/user-attachments/assets/ae256ab2-f020-4fa8-b09c-fcad0930034b"  alt="coding-gif">
 </p>
 
 Welcome to my GitHub profile! I'm a passionate **AI/ML Enthusiast** and **Full Stack Developer** who enjoys turning ideas into real-world solutions through coding and innovation. I'm continuously exploring new technologies and improving my skills in software development.
@@ -77,10 +77,7 @@ const pavithra = {
 ---
 
 ## 📊 My GitHub Data:
-<div align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=pavithrak17&show_icons=true" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavithrak17&" alt="pavithrak17" />
-</div>
+![](https://github-readme-streak-stats.herokuapp.com/?user=pavithrak17&theme=great-gatsby&hide_border=false)<br/>
 
 ---
 
