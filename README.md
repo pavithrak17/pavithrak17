@@ -12,7 +12,7 @@
 </p>
 <h3 align="center">🚀 Student | Developer | AI/ML Enthusiast 🌟</h3>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ae256ab2-f020-4fa8-b09c-fcad0930034b"  alt="coding-gif">
+  <img src="https://github.com/user-attachments/assets/44ca566b-c953-4ca0-928d-00165e7e776c"  alt="coding-gif">
 </p>
 
 Welcome to my GitHub profile! I'm a passionate **AI/ML Enthusiast** and **Full Stack Developer** who enjoys turning ideas into real-world solutions through coding and innovation. I'm continuously exploring new technologies and improving my skills in software development.
